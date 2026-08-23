@@ -1,5 +1,3 @@
-# Counter-Strike 1.6 Server Lists for LSB
-
 **[EN](README.md) | [RU](README.ru.md)**
 
 This repository contains up-to-date server lists for the **LSB (Launcher & Server Browser)** program, designed for Counter-Strike 1.6.
