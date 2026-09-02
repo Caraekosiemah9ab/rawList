@@ -1315,6 +1315,7 @@
 94.23.160.196:27034
 94.26.167.26:27015
 95.138.193.64:27015
+45.144.155.103:27026
 
 # Redirect
 42.193.226.121:6907
@@ -1543,7 +1544,6 @@
 46.174.48.253:27015 # BAD HOSTNAME
 45.136.204.183:27015 # SHIT
 45.10.244.16:40310 # Detected Cheats
-45.144.155.103:27026 # NoSteam Not Allowed! Visit ...
 45.235.98.40:27015 # You have no entry to the server...
 45.235.99.105:27244 # Tu acceso a este servidor fue bloqueado...
 45.235.99.105:27245 # Tu acceso a este servidor fue bloqueado...
@@ -1551,5 +1551,4 @@
 45.91.92.225:27020 # Rank 400 and below only
 5.181.187.160:27015 # You are banned from this server
 51.75.84.230:27015 # Violation server !
-81.181.244.49:27015 # Dropped due to slot reservation
 83.8.183.208:27015 # Fake Player
