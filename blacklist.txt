@@ -30160,7 +30160,6 @@
 46.8.158.76:27015
 46.8.158.76:27016
 46.8.158.76:8888
-62.122.213.153:27015 # bess qq
 
 # Kicked :"Lotfan Az Character Haye Mojaz Estefade Konid."
 5.42.223.15:27000
@@ -30174,6 +30173,7 @@
 
 # ECD Scan for LSB users
 62.122.214.197:27015
+62.122.213.153:27015 # bess qq
 
 # Others
 46.174.48.253:27015 # BAD HOSTNAME
