@@ -1,5 +1,4 @@
 # Mirrors
-46.174.54.239:27015
 87.252.237.162:40809
 87.252.237.162:40808
 2.26.5.2:40005
@@ -68099,3 +68098,4 @@
 94.156.185.104:27018 # Kicked :Change rendering type
 23.230.3.181:27017 # Server refused connection because:  Tu nombre solo puede contener como máximo 15 carácteres, cambieselo y reingrese!
 185.9.145.159:27015 # Timed out
+46.174.54.239:27015 # use mirrors: 87.252.237.162:40809, 87.252.237.162:40808
