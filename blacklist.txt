@@ -2037,7 +2037,6 @@
 45.235.98.50:27015 # Kicked :Servidor Lleno. Compra tu VIP/ADMIN al +54 9 3834-917268 Podes ingresar al nuevo DUST2 CLASICO 45.235.98.62:27015
 45.235.98.61:27015 # Kicked :"SERVIDOR LLENO. COMPRA TU CUENTA VIP O ADMIN AL +54-9-383-4917268 PARA TENER TU LUGAR RESERVADO"
 45.235.98.61:27019 # Kicked :"SERVIDOR LLENO. COMPRA TU CUENTA VIP O ADMIN AL +54-9-383-4917268 PARA TENER TU LUGAR RESERVADO"
-# Kicked :Servidor Lleno. Compra tu VIP al +54 9 3834-917268 INFERNO I: 45.235.98.61:27019 y INFERNO II: 45.235.98.50:27015
 45.235.98.68:27016 # Kicked :"Desconectado por reserva de plazas"
 45.81.254.57:27019 # Server refused connection because:  Player is already online
 46.174.51.172:27015 # Kicked :На этом нике куплена привилегия. Для входа на сервер под этим ником введите пароль в консоли. (setinfo _pw пароль)
