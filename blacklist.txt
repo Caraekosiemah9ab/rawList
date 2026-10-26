@@ -2112,7 +2112,6 @@
 62.122.215.44:27030
 
 # Others
-46.174.48.253:27015 # BAD HOSTNAME
 45.10.244.16:40310 # Detected Cheats
 45.235.98.40:27015 # You have no entry to the server...
 45.91.92.225:27020 # Rank 400 and below only
