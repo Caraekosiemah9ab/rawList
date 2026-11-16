@@ -1,4 +1,1 @@
 # host:port PLACE #HEXCOLOR
-# --- promo: lines below are written by A2STracker, do not edit ---
-94.19.237.176:27020 END
-# --- /promo ---
